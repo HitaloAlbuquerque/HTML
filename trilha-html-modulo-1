@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desafio - Utilizando às Tags</title>
+  </head>
+  <body bgcolor="#d0d0d0">
+    <h1 id="inicio">Utilizando às Tags em HTML</h1>
+    <hr>
+    <h2>Índice de Tags mais utilizáveis</h2>
+    <ul>
+      <li><a href="#h1">H1 à H6</a></li>
+      <li><a href="#tag-p">Tag "p"</a></li>
+      <li><a href="#mark">Tag "Mark"</a></li>
+      <li><a href="#small">Tag "small"</a></li>
+      <li><a href="#i">Tag "i"</a></li>
+      <li><a href="#u">Tag "u"</a></li>
+      <li><a href="#strong">Tag "strong"</a></li>
+      <li><a href="#ol">Tag "ol"</a></li>
+      <li><a href="#ul">Tag "ul"</a></li>
+      <li><a href="#li">Tag "li"</a></li>
+      <li><a href="#a">Tag "a"</a></li>
+      <li><a href="#hr">Tag "hr"</a></li>
+      <li><a href="#sub">Tag "sub"</a></li>
+      <li><a href="#sup">Tag "sup"</a></li>
+      <li><a href="#block">Tag "blockquote"</a></li>
+    </ul>
+    
+    <h2 id="h1">Tags H1 à H6 </h2>
+    <p>
+      "H1" é a tag para definição do título principal do corpo da página.<br><br>
+
+      <strong>Exemplo: "H1" "Página Inicial" /H1</strong> - Utilizando às tags sempre e entre <>.<br><br>
+
+      "H2" à "H6" seguem em ordem decrescente em tamanho e destaque, servindo para íncio de tópicos, subtitulos, etc. Seguem o mesmo padrão de utilizão do "H1".
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="tag-p">Tag "p"</h2>
+    <p>
+      À Tag "p" nos auxilia adicionando paragráfos ao corpo da página.
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="mark">Tag "mark"</h2>
+    <p>
+      À Tag "mark" destaca alguma parte do texto em questão, funcionando como um marca texto. <br> <br>
+
+      Exemplo: Minha <mark>primeira</mark> página.
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="small">Tag "small"</h2>
+    <p>
+      É utilizada para deixar à fonte em destaque pequena dentro do corpo do texto ou citação. <br><br>
+
+      Exemplo: Minha primeira <small><b>Página.</b></small>
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="i">Tag "i"</h2>
+    <p>
+      Utilizada para formatar o texto selecionado em itálico. <br><br>
+
+      Exemplo: Minha primeira <i>Página.</i>
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="u">Tag "u"</h2>
+    <p>
+      Utilizada para formatar o texto selecionado em "Sublinhado". <br><br>
+
+      Exemplo: Minha primeira <u>Página.</u>
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="strong">Tag "strong"</h2>
+    <p>
+      Utilizada para dar destaque em alguma parte do texto, geralmente textos de grande importância e destaque no corpo da página. <br><br>
+      Exemplo: Minha primeira <strong>Página.</strong>
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="ol">Tag "ol"</h2>
+    <p>
+      É utlizada para criarmos listas ordenadas. Utilizamos esta tag em conjunto com à tag "li". <br><br>
+
+      Exemplo: <ol><li>Teste 1</li> <br><li>Teste 2</li></ol>        
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="ul">Tag "ul"</h2>
+    <p>
+      É utlizada para criarmos listas não ordenadas. Utilizamos esta tag em conjunto com à tag "li". <br><br>
+
+      Exemplo: <ul><li>Teste 1</li> <br><li>Teste 2</li></ul>
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="li">Tag "li"</h2>
+    <p>
+      Tag "li" é utilizada para representar os itens que fazem parte de uma lista ordenada ou não ordenada. <br><br>
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="a">Tag "a"</h2>
+    <p>
+      O elemento "a" juntamente com o atributo "href=" é utilizado para criar links em páginas web, arquivos e etc em uma mesma página ou endereços externos em URL. <br><br>
+
+      Exemplo: <a href="https://www.google.com"> Google</a>
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="hr">Tag "hr"</h2>
+    <p>
+      O elemento "hr" adiciona uma quebra de parágrafo na página em forma de linha horizontal. <br><br>
+
+      Exemplo: Minha primeira página com o elemento abaixo em forma de linha. <hr>
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="sub">Tag "sub"</h2>
+    <p>
+      Adiciona um texto ou elemento subscrito, na parte inferior da linha ou elemento. <br><br>
+
+      Exemplo: Minha primeira <sub>Página.</sub>
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="sup">Tag "sup"</h2>
+    <p>
+      Adiciona um texto ou elemento sobrescrito, na parte superior da linha ou elemento. <br><br>
+
+      Exemplo: Minha primeira <sup>Página.</sup>
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="block">Tag "blockquote"</h2>
+    <p>
+      À tag "blockquote" é utilizada para citações, deixando o alinhamento do texto desta citação diferente dos demais. <br><br>
+
+      Exemplo: Minha primeira página<blockquote><b>"Minha Primeira Página".</b> </blockquote>
+    </p>
+    <a href="#inicio">Voltar ao Ínicio</a>
+
+    <h2 id="outras-tags">Índice de Algumas Tags diferentes</h2>
+    <ul>
+      <li><a href="#del">Tag "del"</a></li>
+      <li><a href="#input">Tag "input"</a></li>
+      <li><a href="#button">Tag "button"</a></li>
+    </ul>
+   
+    <h2 id="del">Tag "del"</h2>
+    <p>
+      O elemento "del" representa uma parte do texto que foi eliminada ou deletada do documento. <br><br>
+
+      Exemplo: Minha primeira <del>página</del>.
+    </p>
+    <a href="#outras-tags">Voltar ao Ínicio</a>
+
+    <h2 id="input">Tag "input"</h2>
+    <p>
+      O elemento "input" é utilizado para criação dos mais comuns formulários em HTML. Podendo ser preenchido com vários tipos de dados como texto, numeros e etc. <br><br>
+
+      Exemplo: <br> <br>
+      <label for=" name"><b>Insira seu Nome e Sobrenome abaixo:</b> </label> <br>
+      <input type="text" placeholder="Nome" name="nome"/>
+    </p>
+    <a href="#outras-tags">Voltar ao Ínicio</a>
+    <h2 id="button">Tag "button"</h2>
+    <p>
+      O elemento "button" adiciona um botão clicável dentro do corpo da página. <br><br>
+
+      Exemplo: Minha primeira <button>página</button>.
+    </p>
+    <a href="#outras-tags">Voltar ao Ínicio</a> <hr>
+
+    <h2>Referências durante o trabalho</h2> <hr>
+    <p>
+      <ul>      
+       <li><a href="https://www.w3schools.com/" target="_blank"> W3Schools</a></li>
+       <li><a href="https://developer.mozilla.org/pt-BR/" target="_blank"> M mdn</a></li>
+       <li><a href="https://www.htmlprogressivo.net/" target="blank"> HTML Progressivo</a></li>  
+      </ul>
+      </p>
+  </body>
+</html>
